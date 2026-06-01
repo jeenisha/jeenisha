@@ -85,9 +85,6 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 
 ## 📊 GitHub Stats
 
-![Jeenisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeenisha&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeenisha&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeenisha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
