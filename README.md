@@ -58,7 +58,7 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🌊 [FloatChat](https://www.linkedin.com/posts/activity-7406633283989663744-SZjB) *(SIH 2025 — Finalist | Problem Statement 25040)*
 > AI-powered conversational interface for exploring ARGO ocean data using natural language. Ask *"Show me floats in the Bay of Bengal"* or *"Salinity profiles near the equator in March 2023"* — FloatChat translates it into SQL, fetches data, and visualizes it on interactive geospatial maps.
@@ -80,12 +80,6 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 > A rule-based chatbot that tells students whether a teacher is available, where they are, and any messages they've left — built from a real frustration during submission week.
 >
 > `Flask` `Python` `SQLite` `Rule-Based Chatbot` `HTML/CSS/JS`
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeenisha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
