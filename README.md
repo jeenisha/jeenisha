@@ -9,14 +9,14 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 - 🤖 Learning **Machine Learning & AI** — diving deeper every day
 - 🌊 Recently built **FloatChat** — an AI-powered ocean data interface under **Ministry of Earth Sciences – INCOIS** as a **Smart India Hackathon 2025 Finalist**
 - 💬 Built **Smart Campus Assistant** — a rule-based chatbot born from waiting an hour outside my HOD's cabin during submission week
-- 🦉 Learning **Spanish on Duolingo** — 422 day streak and counting *(consistency is a skill too)*
+- 🦉 Learning **Spanish on Duolingo** — ~500 day streak and counting *(consistency is a skill too)*
 
 ---
 
 ## 🏆 Highlights
 
 ![SIH 2025 Finalist](https://img.shields.io/badge/SIH%202025-Finalist-FFD700?style=for-the-badge&logoColor=black)
-![Innovara Dynamics](https://img.shields.io/badge/Internship-YBI%20Foundation-28A745?style=for-the-badge)
+![Innovara Dynamics](https://img.shields.io/badge/Internship-Innovara%20Dynamics-28A745?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science%20Elite-FF6F00?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Programming%20in%20Java%20Elite-FF6F00?style=for-the-badge)
 
