@@ -16,8 +16,7 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 ## 🏆 Highlights
 
 ![SIH 2025 Finalist](https://img.shields.io/badge/SIH%202025-Finalist-FFD700?style=for-the-badge&logoColor=black)
-![INCOIS](https://img.shields.io/badge/INCOIS-Ministry%20of%20Earth%20Sciences-0077B6?style=for-the-badge)
-![YBI Foundation](https://img.shields.io/badge/Internship-YBI%20Foundation-28A745?style=for-the-badge)
+![Innovara Dynamics](https://img.shields.io/badge/Internship-YBI%20Foundation-28A745?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science%20Elite-FF6F00?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Programming%20in%20Java%20Elite-FF6F00?style=for-the-badge)
 
