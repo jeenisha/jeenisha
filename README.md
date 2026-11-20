@@ -19,6 +19,7 @@ Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA
 ![Innovara Dynamics](https://img.shields.io/badge/Internship-Innovara%20Dynamics-28A745?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science%20Elite-FF6F00?style=for-the-badge)
 ![NPTEL Elite](https://img.shields.io/badge/NPTEL-Programming%20in%20Java%20Elite-FF6F00?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL-Database%20Management%20System%20Elite-FF6F00?style=for-the-badge)
 
 - 🥈 **Smart India Hackathon 2025 Finalist** — Built FloatChat under **INCOIS, Ministry of Earth Sciences, Government of India**
 - 🏢 **Internship offer from INCOIS, Hyderabad** — based on performance at SIH Grand Finale
