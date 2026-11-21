@@ -1,6 +1,6 @@
 # Hi, I'm Jeenisha Bhutekar 👋
 
-Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA 9.09 | who builds things that solve real problems — not just to complete assignments, but because the problem genuinely frustrated me first.
+Final year B.Tech Information Technology student | 🏆 SIH 2025 Finalist | CGPA 9.02 | I am someone who builds things that solve real problems — not just to complete assignments, but because the problem genuinely frustrated me first.
 
 ---
 
